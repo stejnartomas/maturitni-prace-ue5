@@ -1,0 +1,40 @@
+
+# ==========================================
+# UNREAL ENGINE - GENERATED DIRECTORIES
+# ==========================================
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# ==========================================
+# IDE AND DEVELOPMENT FILES
+# ==========================================
+
+.vs/
+.idea/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+
+# ==========================================
+# OPERATING SYSTEM FILES
+# ==========================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================
+# LOGS AND TEMPORARY FILES
+# ==========================================
+
+*.log
+*.tmp
+*.bak
